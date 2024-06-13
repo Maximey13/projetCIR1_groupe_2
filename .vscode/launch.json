@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/louis/Documents/cours/2023-24/projet/projetCIR1_groupe_2",
-      "program": "c:/Users/louis/Documents/cours/2023-24/projet/projetCIR1_groupe_2/build/Debug/outDebug",
+      "cwd": "c:/Users/maxim/Documents/CIR1/Projet Final/projetCIR1_groupe_2",
+      "program": "c:/Users/maxim/Documents/CIR1/Projet Final/projetCIR1_groupe_2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
