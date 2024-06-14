@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/projetCIR1_groupe_2.dir/main.c.o -o projetCIR1_groupe_2 
