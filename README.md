@@ -9,7 +9,7 @@ Ce projet réalisé en C permet de récupérer les informations d'une famille et
 3. [Configuration](#configuration)
 4. [Licence](#licence)
 5. [Crédits](#crédits)
-6. [Contact](#Contact)
+6. [Contact](#contact)
 
 
 
@@ -33,7 +33,7 @@ Peu après l'execution du programme, il vou sera demandé de lire un fichier. Ve
 Pour être sur de toujours ouvrir le fichier correctement, vous pouvez utiliser le lien absolu du fichier (par exemple : "C:\Users\NameUser\Documents\familyTree.csv" )
 
 ## Licence
-Ce produit est strictement sous licence ISEN Nantes
+Ce produit est strictement sous licence ISEN Nantes.
 Toute utilisation inappropriée de ce projet se verra poursuivie en justice
 
 ## Crédits
@@ -44,5 +44,5 @@ Ces projet a été par :
 
 ## Contact
 Pour toute question ou demande particulière concernant ce projet veuillez contactez nos référents aux adresses mails suivantes :
-  -profDeC@isen-ouest.fr
-  -profDeJs@isen-ouest.fr
+  - profDeC@isen-ouest.fr
+  - profDeJs@isen-ouest.fr
