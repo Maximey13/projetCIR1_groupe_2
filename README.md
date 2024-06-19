@@ -27,6 +27,7 @@ Elle pourra notamment vous donnez des informations sur la famille fournie mais a
 D'autre pages seront également générée à partir du fichier CSV. 
 Par exemple, l'utilisateur aurra accès à un acceuil lui permettant de visiter une personne choisie aléatoirement, de filtrer parmis la liste des membres pour aller sur l'arbre généalogique d'une personne respectant les filtre ou encore de visualiser les proportions de naissances selon les régions à l'aide d'un diagramme.
 De plus, la page d'accueil vous permettra de visitier deux autres pages regroupant de multiples informations sur la famille.
+ATTENTION : Lorsque que vous naviguerez dans l'interface utilisateur, il est impératif de n'utiliser uniquement des nombres et non des lettres. Si vous entrez une lettre, le code ne sera plus fonctionnel et vous devrez executer l'application de nouveau.
 
 ## Configuration
 Peu après l'execution du programme, il vou sera demandé de lire un fichier. Veillez à bien écrire le lien vers le fichier que vous souhaitez utiliser. En fonction de sa position dans l'arborescence par rapport à l'executable, le chemin peut varier. 
